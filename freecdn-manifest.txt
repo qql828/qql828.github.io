@@ -1,0 +1,12 @@
+
+
+@global
+	open_timeout=0
+
+https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	https://jsd.cdn.zzko.cn/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	https://cdn.jsdelivr.us/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	https://cdn.jsdelivr.ren/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	https://raw.githubusercontent.com/qql828/picx-images-hosting/master/091801ykoht7iuofbi09yl.361iidp53j.webp
+	hash=None
