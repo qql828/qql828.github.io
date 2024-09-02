@@ -1,12 +1,18 @@
-
-
 @global
 	open_timeout=0
 
-https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
-	https://jsd.cdn.zzko.cn/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
-	https://cdn.jsdelivr.us/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
-	https://cdn.jsdelivr.ren/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
-	https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/091801ykoht7iuofbi09yl.361iidp53j.webp
-	https://raw.githubusercontent.com/qql828/picx-images-hosting/master/091801ykoht7iuofbi09yl.361iidp53j.webp
+https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	https://jsd.cdn.zzko.cn/gh/qql828/picx-images-hosting@master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	https://cdn.jsdelivr.us/gh/qql828/picx-images-hosting@master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	https://cdn.jsdelivr.ren/gh/qql828/picx-images-hosting@master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	https://raw.githubusercontent.com/qql828/picx-images-hosting/master/fc16abb1b1950ad6fdeca3cf71a3698d.2a51365is1.jpg
+	hash=None
+
+https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
+	https://jsd.cdn.zzko.cn/gh/qql828/picx-images-hosting@master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
+	https://cdn.jsdelivr.us/gh/qql828/picx-images-hosting@master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
+	https://cdn.jsdelivr.ren/gh/qql828/picx-images-hosting@master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
+	https://cdn.jsdelivr.net/gh/qql828/picx-images-hosting@master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
+	https://raw.githubusercontent.com/qql828/picx-images-hosting/master/bac675a15d5452d55ebc08bc5a3f72b5.45mhf8z7o.webp
 	hash=None
